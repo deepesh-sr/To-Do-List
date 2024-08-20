@@ -1,0 +1,27 @@
+*{
+    background-color: whitesmoke;
+}
+
+.list-table{
+    display: flex;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    border:20px solid blueviolet;
+    border-radius: 10px;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-card{
+    margin: 10px 0 28px 0 ;
+    padding: 0 5px;
+
+}
